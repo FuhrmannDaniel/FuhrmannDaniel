@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at Texas A&M University.
+
 <!--
 **FuhrmannDaniel/FuhrmannDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
